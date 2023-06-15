@@ -1,1 +1,1 @@
-[]
+[{"uid":"217b092f096161ed","name":"1. Direct to forgot password page","time":{"start":1686826046723,"stop":1686826058562,"duration":11839},"status":"passed","severity":"normal"},{"uid":"25e7e9d3e988d154","name":"Get SMS and apply it in 2FA form","time":{"start":1686826168567,"stop":1686826191237,"duration":22670},"status":"failed","severity":"normal"},{"uid":"78b4874f83989ce","name":"2. Reset password","time":{"start":1686826058611,"stop":1686826085683,"duration":27072},"status":"passed","severity":"normal"}]
